@@ -5,14 +5,14 @@ TensorFlow.jsモデルをトレーニングするための詳細なチュート�
 。
 
 ## セットアップ
-`git clone` the repo and `cd` into it by running the following command:
-
+次のコマンドを実行して、レポジトリを`git clone`し、作成されたディレクトリに`cd`します:
 ```bash
 git clone https://github.com/cloud-annotations/object-detection-react.git
 cd object-detection-react
 ```
 
-### `npm install`
+### npm install
+下記のコマンドを実行します:
 ```bash
 npm install
 ```
@@ -24,7 +24,10 @@ npm install
 オブジェクト検出のチュートリアルから生成された(ダウンロードした) `model_web`ディレクトリをコピーしてこのリポジトリの` public`フォルダに貼り付けてください。
 
 ## アプリケーションの実行
-### `npm start`
+下記のコマンドを実行します:
+```bash
+npm start
+```
 
 ブラウザーで [http://localhost:3000](http://localhost:3000) を開き、カメラに検出したいオブジェクトを写してみてください。
 
