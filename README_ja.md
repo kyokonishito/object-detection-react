@@ -11,7 +11,7 @@ git clone https://github.com/cloud-annotations/object-detection-react.git
 cd object-detection-react
 ```
 
-### npm install
+## npm install
 下記のコマンドを実行します:
 ```bash
 npm install
